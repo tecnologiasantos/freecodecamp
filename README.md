@@ -1,5 +1,5 @@
 <h1> Hello everybody 👋 </h1>
-<h2> Im Ronaldo Santos, a very commited IT professional from Brazil</h2>
+<h2> I'm Ronaldo Santos, a very commited IT professional from Brazil</h2>
 <img align="right" alt="GIF" src="https://static.wixstatic.com/media/b7038a_de2812c0882f402792eb66ac2d473a42~mv2.png/v1/fill/w_157,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b7038a_de2812c0882f402792eb66ac2d473a42~mv2.png)](https://static.wixstatic.com/media/b7038a_de2812c0882f402792eb66ac2d473a42~mv2.png/v1/fill/w_157,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b7038a_de2812c0882f402792eb66ac2d473a42~mv2.png)https://static.wixstatic.com/media/b7038a_de2812c0882f402792eb66ac2d473a42~mv2.png/v1/fill/w_157,h_70,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b7038a_de2812c0882f402792eb66ac2d473a42~mv2.png" width="250"/>
 <h2> What I'm doing here? Good question. This is my first steps in programming and Github. </h2>
 
