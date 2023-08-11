@@ -14,4 +14,4 @@ I am a experienced IT technician, system administrator, desktop engineer and tec
 &nbsp; <a href="https://www.linkedin.com/in/tecnologiasantos/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:ronaldo@tecnologiasantos.com.br" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-<h4 align="center" > Power by <a href="https://tecnologiasantos.com.br target="_blank">Tecnologiasantos.com.br</a></h4>
+<h4 align="center" > Power by <a href="https://tecnologiasantos.com.br" target="_blank">Tecnologiasantos.com.br</a></h4>
